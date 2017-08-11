@@ -8,12 +8,12 @@ If an idea has any merit, someone is already working on it. Only very rarely is 
 If I can copy your idea from what you're going to share it's probably not a very good idea
 ---
 
-If your idea is that proprietary, get a patent or a copyright, not an NDA
+If your idea is proprietary, get a patent or a copyright, not an NDA
 ---
 
 Legal agreements are serious documents that take time to review and to consider throughout the duration of their effective dates
 ---
-Signing a legal agreement is not something to do without thinking or reading; it's a binding contract that should be taken seriously. 
+Signing a legal agreement is not something to do without thinking or reading; it's a binding contract that should be taken seriously. "This is just boilerplate" or "This is just a routine formality" or "Everyone signs these" are not good reasons to sign an NDA.
 
 NDAs are (probably) impossible to enforce
 ---
@@ -21,7 +21,7 @@ TODO
 
 The time you're spending creating and enforcing NDAs is a sign of misaligned priorities
 ---
-If you aren't 100% focused on your customer at the startup stage there is something wrong. 
+If you aren't 100% focused on your customer at the startup stage there is something wrong. Legal agreements that don't have a strategic purpose take time from more important priorities.
 
 You aren't providing anything in return
 ---
